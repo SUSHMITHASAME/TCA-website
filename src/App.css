@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body, h1, h2, h3, p, a {
+  font-family: 'Noto Sans Telugu', sans-serif;
+}
