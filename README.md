@@ -2,10 +2,6 @@
 
 This is the official website of the **Telugu Cultural Association** of IIT Kharagpur. Built using the MERN Stack.
 
-## 🔗 Live Demo
-
-👉 [Click here to visit the website]()
-
 ## 📁 Features
 
 - Spring & Autumn Event Management
@@ -23,3 +19,7 @@ This is the official website of the **Telugu Cultural Association** of IIT Khara
 ---
 
 Built with ❤️ by the TCA Dev Team.
+
+🔗 Live Demo
+
+👉
